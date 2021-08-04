@@ -1,0 +1,889 @@
+- sanctimonious #vocabulary
+	- __making a show__ of being better or morally superior to other people
+	- making a show of being morally better than others, especially __hypocritically pious__
+	- Example
+		- someone who always goes on and on about how he does tons of charity work and is such a great person.
+		- Preaching to someone about the evils and dangers of drugs
+	- Antonym
+		- humble
+- "c'est la vie" pronounced as -- se la Vee #quote 
+	- It's life
+- Super Intelligence #elonmusk #samharris
+	- https://www.youtube.com/watch?v=h0962biiZa4
+- Evolution adaptation of full lips #evolution #lips
+	- Hypothesis fulls lips of women are sign of vitality and are attractive to opposite sex because they resemble the labia.
+	- Full lips signal both youth and vitality. A 1 to 1 ratio symmetric between top and bottom lip is the most attractive. In contrast, the low waist to hip ratio is the most attractive women body shape.
+	- More broadly, it indicates health. 
+		- Historically certain illnesses causes lips to dry and lose their color
+			- many sexually transmitted diseases display signs on the lips
+		- younger lips are naturally fuller and thin and lose shape as we age
+	- https://www.thecut.com/2018/10/the-complicated-psychology-behind-bee-stung-lips.html
+- I was dead for billions years before I was born and never suffered the smallest inconvenience.  #quote #marktwain
+	- That's how it'll be after we are gone.
+	- "Eternity is a frightening prospect, so the best way to spend it is under a general anesthetic." --Richard Dawkins #richarddawkins #quote #meaning
+- Richard Dawkins #evolution #quote
+	- Meaning of life from science perspective is propagation of DNA
+	- Evolution is a transient property of existence. even in a simulation, the person running the simulation had to evolve from something through time. So, as long as there is time, there are changes that occur overtime and the most advantageous properties or entities or attributes become dominant.
+	- https://www.youtube.com/watch?v=5f-JlzBuUUU
+- Is evolution a feature or a bug? #objectivefunction #objective
+	- everyone has a different objective functions that they are optimizing
+- Watch Hasidic Jews of Boro Park, New York City
+	- Hasidic Jew vs Orthodox Jews
+	- Read Wiki for Hasidic Jews
+	- https://www.youtube.com/watch?v=Oo8zJuHWZUQ
+	- https://www.youtube.com/watch?v=jUDFpt6lcew
+- https://www.reddit.com/r/infp/comments/ov3how/can_someone_please_explain_this_quote_to_me_what/ #quote #stoicism
+- gauges #vocabulary 
+	- earrings with hoops
+- "If you’re already out and have something to do early the next day, just get gas now." #quote
+	- Take advantage of the opportunity now. Your future you will thank you!!
+		- You can also think of how much your past self has already done for you, and it's only fair that you keep paying it forward.
+- rooster in Spanish  #cool
+	-  https://www.google.com/search?q=rooster+in+spanish
+	-  https://news.ycombinator.com/item?id=28004299
+- "discipline is freedom" #quote
+	- Jocko Willink
+- "The human brain is the most complex entity in the universe" - Human Brain #quote #universe #brain
+- Betteridge's Law of Headlines #vocabulary 
+	- Any headline that ends in a question mark can be answered by the word no
+	- "Is it time to rewrite the operating system in Rust?" the name of the YouTube video
+- apropos #vocabulary 
+	- Very opportune time; pertinent; appropriate
+	- I'll give a narrative example, its actually apropos, because my car did breakdown today.
+		- The Jordan B. Peterson Podcast S4:E36:6m50s
+- The Large Hadron Collider #science #physics
+	- the biggest machine man has ever built to date.
+	- Built to study subatomic particles. 27km in circumference and buried 175m under ground near Geneva.
+- hymen 
+	- a thin membrane  that surrounds the opening of a vaginal canal and covers the opening of the vagina 
+		- All shapes and sizes
+			- the vagina opening is fully covered
+			- slightly covered - normal - a half moon or parabola
+				- allowing menstrual blood to flow out of the vagina
+	- misconceptions:
+		- needing to lose virginity before inserting a tampon is false. A tampon can be inserted without disturbing/tearing the hymen
+		- if your hymen tore, it does not mean you had sex, you can break the hymen in different ways other than via sexual intercourse.
+		- Everyone's hymen is different, you cannot tell if someone inserted or has not inserting something in their vaginal canal by looking at the hymen
+		- popping the cherry - does not refer to popping anything or breaking anything, it's simply tearing some tissue that causes bleeding.
+	- Many ways to break or tear the hymen:
+		- exercising
+		- riding a bike
+- "if you give yourself 30 day to clear your house. You'll do it in 30 days. If you give yourself 3 hours, then you'll do it in 3 hours. Same is true for personal goals"  #productivity
+	- 
+- Watch planet of the apes all 1,2,and 3 #movietowatch
+	- "Orangutans are diplomats, Gorillas are the police, Apes are the scientists."
+- vicissitude #vocabulary 
+	- mutability; the quality or state of being changeable
+	- "change is not made without inconvenience, even from worse to better."
+	- https://www.merriam-webster.com/dictionary/vicissitude
+- "how can mere molecules and simple cells build something as infinitely creative as the human brain" 
+	- Morgan Freemen Breakthrough Prize 2016
+- "what exactly does a mathematician exactly do discover new numbers"
+-  "Leet Code ability is a learned skill, not a fixed attribute"
+	- Reddit comment 
+- nothing changes if nothing changes
+	- do something different, if you want something different
+- "every 60 seconds, a minute passes in Africa"
+	- parody on distressing factoids about frequent occurrences that take place in the continent of Africa
+- Unknown Unknowns #universe #cosmos
+	- future outcomes, events or consequences that we cannot predict. We cannot plan for them either. We don't even know when and where that that even will happen. 
+	- Things that you do not even know exist.
+	- Hidden facts
+- Hunter Thompson #hunterthompson #beauty #soul
+	- "For all instances of beauty, many souls must be trampled"
+- first principle #vocabulary
+	- principles that are basic or self-evident; basic proposition or assumption that cannot be deducted from any other proposition or assumption.
+	- fundamental assumptions on which a particular theory or procedure is thought to be based
+	- basic assumption that cannot be reduced/deduced any further.
+	- https://fs.blog/2018/04/first-principles/
+- Dingleberry #badfriends #vocabulary
+	- a foolish or inept person
+	- small piece of poop or toilet paper clinging to the butt of hair of human or animal 
+	- Bad Friends YouTube show, Andrew Santino saying the producer is a dingleberry to Bobby Lee.
+- https://www.youtube.com/watch?v=aXvDEmo6uS4
+	- #priority Listen to the video & take notes. Use the more details section of the video to 
+	- Andrew Hubermann
+- https://www.reddit.com/r/cscareerquestions/comments/ohguuy/habits_that_helped_me_get_my_next_job_as_a/
+	- #priority use this to make a plan when you find your own place.
+- https://www.swyx.io/create-luck/ #luck
+	- How to create luck
+	- "I grew up white, male, from a loving home with attentive parents and family who supported and seeded my inquisitive nature and curiosity." --Reddit Commentator
+	- "Luck is what happens when preparation meets opportunity" - Seneca
+		- There are some aspects that are pure luck, however, practicing Leetcode for months is not luck. It's preparation.
+- Limit of Humanity #universe #space #cosmos #earth #life
+	- "we can't explore beyond observable universe because devs have not finished building yet"
+	- <div style="display: block; position: relative; width: 100%; height: 0px; --aspect-ratio:9/16; padding-bottom: calc(var(--aspect-ratio) * 100%);"><iframe src="https://www.youtube.com/embed/uzkD5SeuwzM" allow="fullscreen" style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;"></iframe></div>
+- et voila; akin to ta da
+	- French for there it is
+- "Well, my storyline is disappearing. What the fuck?"
+	- That is a good line by Allison Janney ("I, Tonya ")
+- "you are not a stand up guy" - Jennifer Lawrence Silver Notebook
+	- Stand up guy - an honest and straightforward man of good character; person who supports their principles even when it it is not popular; loyal to friends and beliefs.
+- "did Elon say bidets have complicated user interfaces" #bidets #bits
+	- Elon Musk appears on Grimes IG live.
+- formidable #respect #intimidating #vocabulary
+	- it has both a negative and positive connotation.
+	- Inspires fear or respect through being impressively large, powerful, intense, or capable; daunting; intimidating; frightening
+	- Amanda Nunes is one of the formidable pound for pound mixed marital artists in UFC history.
+- "I can sum up life in three words: it goes on" Robert Frost #life #meaningoflife  #Frost #RobertFrost
+- Life is like the titanic, being the wealthy first class people on the titanic, does help, the boat will still sink. #titanic #lifelesson #life
+	- Acquiring infinite number of resources does not 
+	- https://www.youtube.com/watch?v=2tUiLxtrLxk
+- We have to make up the brevity of life with the tenacity of life
+	- Rick Doblin Lex Fridman
+- https://youtu.be/pLbSlC0Pucw #reality #nature #religion #afterdeath
+	- Nature of Reality Talk Sean Carol Dartmouth U
+- "to ride on someone's coattails means to become successful at attaching yourself to another's success. A person who rides someone's coattails is usually considered unable to attain success on his own"
+	- Brad Pitt accepting his Oscar award for his supporting role in the movie Once Upon A Time in Hollywood said to Leo is co-star, "I'll ride on your coattail any day".
+- Suriname Guiana Guyana are nations with unique and diverse set of populations that are mixed of European, Indian, Chinese, West African descendants.
+- The absurd refers to **the conflict between human tendency to seek inherent meaning life** and the silent answer of the universe in which a harsh truth arises that is there is no inherent meaning in life. Existence is Absurd because of the conflicting views between humans and the universe. #absurdity #absurd #life #lifeisaburd #absurdityoflife #universe #meaningoflife
+- Oort cloud #kuiperbelt #space #solarsystem
+	- "in the age of the solar system, there have been zero collisions in the Oort Cloud" #batygin #oortcloud
+- The difference between a flower and a weed is judgment #dakotajohnson #judgment 
+- "of all the time we spent as tribal hunters, who do you put in charge. the best hunger "
+	- #power #jordanpeterson
+- Social lubricant #alcohol
+	- minimizing friction. Easy to get the conversation going and get people put down their shields.
+- https://www.theatlantic.com/magazine/archive/2003/03/caring-for-your-introvert/302696/
+	- Read it. #theatlantic #introvert #misconceptions
+- Is the Universe a simulation #simulation #neildegrassetyson 
+	- <iframe src="https://www.youtube.com/embed/wgSZA3NPpBs" class="resize-vertical"></iframe>
+- "if your at equalibrium with your environment, your probably dead" #quote #neildegrassetyson 
+- "No conversation is over, until a philosopher has said so"
+- "Extraordinary claims require extraordinary evidence" #carlsagan #quote
+- Sum 41 - In Too Deep 
+	- "cause i''m in too deep and im trying to keep up above my ahead; instead of going under"
+- Women are not some "puzzle" to be solved. #women #puzzle
+- https://www.reddit.com/r/cscareerquestions/comments/ohguuy/habits_that_helped_me_get_my_next_job_as_a/
+	- Good Info about time management
+- Ram Das #atheist #atheism #belief #religion #spirituality
+	- Spiritual Leader
+- Testosterone makes effort feel good.
+- Testosterone inverse relationship with prolactin #dadbod #prolactin #testosterone #evolution #adaptations
+	- The husband of pregnant women maybe an odor or phermone of pregnant women, increases the mans level of prolactin and puts  body weight on the man, body fat, persumbly to prepare the father for long-sleepless nights ahead because sapiens have always co-parented, Thus, the dad-bod is due to an increase in prolactin
+	- <iframe src="https://youtu.be/bJWmJo3w_0Y?t=268" class="resize-vertical"></iframe>
+- Nocebo 
+	- negative expectations
+- Banana Republic #banana #clothing
+	- Clothing company
+	- politically unstable country that depends on mainly on limited resources for export, such as banana or minerals. Hence Banana republic. 
+	- Coined by author Henry in 1901 to describe Honduras economy, people, government, being dominated or exploited by American-owned United Fruit Company.
+		- Example:
+			- Honduras - Bananas, Botswana - Diamonds,  
+- Influence of Coffee in the Arab World during the Golden Age #caffeine #coffee #goldenage
+	- Caffeine was the perfect drug for those that made great contributions to Math __Wolfgang Schivelbush__
+		- https://blogs.mcgill.ca/hist-399-2014/2017/02/10/wolfgang-schivelbushs-tastes-of-paradise-by-marian/#:~:text=Tastes%20of%20Paradise%20presents%20a,with%20the%20popularization%20of%20liquor
+- the __cedar__ is on the flag of lebanon
+	- it symbolizes strength and eternity. the tree serves as an important cultural symbol.
+- The Great Red Spot #jupiter #planet #storms
+	- High pressure region in the atmosphere of Jupiter producing wind-speeds up to 300mph
+	- Has lasted at least 300 years
+	- It is twice as wide as Earth
+- Que sera, sera
+	- Phrase carries a connotation of leaving one's life in the hands of fate.
+	- What will be will be. A phrase that suggests that the future is uncertain or out of one's control. Oh well, what can I do now. I interviewed for the job, que sera sera. Nothing more I can do.
+	- What will be will be. A phrase that suggests that the future is uncertain or out of one's control. Oh well, what can I do now. I interviewed for the job, que sera sera. Nothing more I can do.
+	- What will be will be. A phrase that suggests that the future is uncertain or out of one's control. Oh well, what can I do now. I interviewed for the job, que sera sera. Nothing more I can do.
+- Deutsche Welle 
+	- public state owned German public broadcasting company that covers international news and current affairs
+- __guil·lo·tine__
+	- machine with sharp blades for behading people
+		- Most notably, Queen Antoinette and Louis XVI were guillotine 1792 during the French Revolution  
+- Tong Twister #peterpiper #tongtwister
+	- Peter Piper Picked a Peck of Pickled Peppers. A peck of Pickled peppers peter piper picked. If peter piper picked a peck of pickled peppers. Where is the peck of pickled peppers peter piper picked.
+- _Nine sovereigns of Europe meet at the funeral of Edward VII_ #wwi #europe #kings #edwardvii
+	- <iframe src="https://www.onthisday.com/images/photos/nine-kings.jpg" class="resize-vertical"></iframe>
+	- On May 20, 1910 at Windsor, England
+	- Edward VII died 6 May 1910 after a short reign of nine years. Important moment in history because his funeral brought together foreign royalty. Most importantly, within 4 years, in 1914, it would be the last great gathering of European royals before the outbreak of WWI, where many of the nations that were present at the funeral would in fact be at war with each other.
+- __Artificial General Intelligence__ #agi #lexfridmanpodcast 
+	- hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can preform.
+- This is how we do it Montell Jordan #90s #thisishowwedoit
+	- <iframe src="https://www.youtube.com/embed/0hiUuL5uTKc" class="resize-vertical"></iframe>
+- Deepak Chopra Enigmatic Wisdom #pseudoscience
+	- http://www.wisdomofchopra.com/ 
+- Consciousness can be contagious
+	- "Consciousness is created between the interactions of things, the joy is in the creation of consciousness"
+	- <iframe src="https://youtu.be/-tDQ74I3Ovs?t=6813" class="resize-vertical"></iframe>
+- Flippant
+	- Not showing a serious or respectful attitude; thoughtless
+	- Sara Walker - "little men lizards" - Sara said that was flippant
+- Occam's razor - 
+	- simple explanation is preferred to the more complex explanation of an unknown phenomena be sought first in terms of known quantities
+	- “You have a headache?”, “Oh no… you might have the Black Death!” Sure, it's true that one of the symptoms of the Black Death is a headache but, using **Occam's razor**, it's obviously much more likely that you're dehydrated or suffering from a common cold.
+	- Occam's razor is not always true aka the simpler explanation, although having higher chance of being correct, is not always __true__
+	- **Occam's razor** is not intended to be a substitute for critical thinking. It is merely a tool to help make that thinking more efficient.
+- Physics of life according to Sara Walker #lifeis #whatislife #physicsoflife #life #physics
+	- Life is sort of changing the probability distribution of what can exist
+	- <iframe src="https://twitter.com/sara_imari?lang=en" class="resize-vertical"></iframe>
+- Do you Sara have a choice about what's going to happen next?
+- fluke ; accident; chance ; the big bang was a fluke event 
+	- an unlikely chance occurrence, espically a surprising piece of luck
+- Humans tend to __anthropomorphize__ object entities, such as the universe, stars
+	- attribute human characteristics or behaviors to a god, animal, or object.
+- "we are a bundle of information that just became a temporarily aggregated into an individual at this particular point in time"
+	- <iframe src="https://youtu.be/-tDQ74I3Ovs?t=2885" class="resize-vertical"></iframe>
+- "it’s not a dad bod, it’s a father figure"
+	- Funny dad bod shirt
+- Sacrum 
+	- A triangular pelvic bone located above coccyx (tailbone)
+- Dora the Explorer - Boots song - Flo Milli - Remix - YouTube
+`Backpack, backpack
+On the backpack loaded up with things and knick-knack's too   Anything that you might need I got inside for you Backpack, backpack  
+Backpack, backpack  
+Yeah`
+- Hilarious Microagression South Park Scene
+	- <iframe src="https://www.youtube.com/embed/QU9QzC2U0BY" class="resize-vertical"></iframe>
+- Elizabeth Bathory - serial killer
+	- Royality that killed many pesants and bathed in their blood to gain youth 
+- Christianity arose because of psychedelics
+	- https://www.vox.com/vox-conversations-podcast/2021/3/4/21759683/christianity-psychedelics-brian-muraresku-the-immortality-key
+- Males respond more to sexual visual stimuli than females
+	- https://www.sciencedaily.com/releases/2004/03/040316072953.htm
+- When guys say that girl is "sexy and hot and attractive!!"
+	- sexy = hot = attractive = healthy = beautiful
+		- A healthy or sexy women is a women who has PHYSICAL features or signal markers of health
+		- facial symmetry, full lips, broad face, small shin small nose, short and narrow jaw, high cheekbones, smooth  skin, low waist-to-hip ratio
+- The Girl in Red Coat in Shindler's List movie
+	- She represents the innocence of the Jews being slaughtered
+		- Her death in the pile of dead bodies symbolizes the death of innocence.
+- Sin Nombre
+	- Same director of Beasts of No Nation
+- Why do women pose by looking over their shoulders?
+	- it accentuates the feminine curves, which are markers of health, thus men find that attractive and pleasing to the eye.
+- Story of __Irena Sendler__
+	- <iframe src="https://www.youtube.com/embed/LxZkdQfgot8" class="resize-vertical"></iframe>
+	- A Catholic social worker in Poland during WWII, occupation of Poland by Germany, she was arrested by Gestapo and sentenced to life for saving the lives of about 2500 Jewish children by smuggling them out of the Warsaw ghetto and potentially concentration camps.
+	- Survived by paying the Gestapo an equivalent of today $100K. Died 2008 and was nominated for (Nobel Peace Prize), but lost to Al Gore and agenda driven slides of Climate Change.
+	- This is similar to story of Anne Frank, a Jewish girl who died in Bergen-Belsen concentration camp, Germany in 1945, before that herself and her family were in hiding in  . Anne Frank is one of the most discussed Jewish victims of the Holocaust.
+	- This story is similar to Oskar Schindler's story depicted in the 1994 movie Schindler's list. Schindler was a businessman...
+- Pomeranian 
+	- small expensive ($1000) fluffy pom pom dogs
+`this is a famous quote from carl sagan
+he was saying why is it we judge animals
+intelligence by whether they can
+communicate with us but maybe we should
+judge our intelligence by whether we can
+communicate
+with them`
+- Yen
+	- A strong desire or inclination; yearn
+	- "What do you think is the average IQ for these people? They have a propensity for obesity, poverty, and a yen for a ferry tale."
+- To me marriage is an archaic and oppressive institution, it should've been abolished years ago.
+- "Transference of fear and self loathing to an authoritarian vessel is a catharsis, he absorbs their dread with his narrative, because of this he is effective in proportion to the amount of certainty he can project"
+	- <iframe src="https://www.youtube.com/embed/_RfUj09pWfM" class="resize-vertical"></iframe>
+- Everything how your life can end any second. You think your gonna live forever, you'll probably will. It's so arrogant the way we live our lives, you know we're constantly on the edge of existence and nothing. And we live in total disrespect of that.
+	- <iframe src="https://www.youtube.com/embed/FJUcipc4F_8" class="resize-vertical"></iframe>
+- "I think human consciousness, is a tragic misstep in evolution. We became too self-aware, nature created an aspect of nature separate from itself, we are creatures that should not exist by natural law. We are things that labor under the illusion of having a self; an accretion of sensory, experience and feeling, programmed with total assurance that we are each somebody, when in fact everybody is nobody. Maybe the honorable thing for our species to do is deny our programming, stop reproducing, walk hand in hand into extinction, one last midnight - brothers and sisters opting out of a raw deal."
+	- nihilism 
+		- Basically, I'm bad at parties.
+	- <iframe src="https://www.youtube.com/embed/A8x73UW8Hjk" class="resize-vertical"></iframe>
+- <iframe src="https://www.youtube.com/embed/mFzFUM9Ulvg" class="resize-vertical"></iframe>
+	- Jordan Peterson
+- babies love all Sapiens indiscriminately 
+- What Are You Doing With Your Life? The Tail End
+	- Kurzgesagt - In a Nutshell
+- “Doubt kills more dreams than failure ever will.”
+	- Never Doubt yourself
+- Plumes from Enceladus 
+	- 6th largest moon of Saturn
+	- Not to be confused with Enchiladas 
+	- 90% of water vapor
+- Three pillars of Ancient Chinese religions:
+	- Confucianism, Taoism, Buddhism
+- Montezuma's Revenge
+	- aka traveler's diarrhea.
+		- increased frequency of watery, loose stools
+		- intestinal infection that occurs as a result of eating or drinking contaminated food or water
+- Do research, read blogs, 
+	- https://www.wikiwand.com/en/Hedonic_treadmill
+- Daniel Kahneman
+	- New Book Noise
+	- The Michael Shermer Show
+- "I think there is none. I find enormous relief in the absence of meaning. Chasing for meaning is a human desire, that the Universe does not give two shits about" 
+	- Clara Sousa-Silva on Lex Fridman podcast on the meaning of life 
+		- Nihilist  - someone who believe that existence or values are meaningless. 
+- "Do not involve yourself in any process you can't reverse."
+- Genes are piece of code/programs that can be executed
+	- RNA / DNA Polymerase are the compilers
+- We are human beings we can swap out their software program 
+- Is Genocide and war, rape adaptive traits 
+	- Tweet from Bret 2017:
+		- "Realizing that genocide and war are adaptive is the 1st step to ending them forever. Rape belongs on the list as well. Let's understand and marvel at adaptive evolution without fictionalizing it. It made our best characteristics, our worst characteristics, and everything between"
+- Hedonic Treadmill
+	- Hedonism Treadmill
+- Evolution 
+- In July 1995, Post Yugoslavia War, in Srebrenica, Bosnia, 8,000 Muslim men and boys were were executed in 5 days by Bosnian Serb forces who were meant to be under UN protection, resulting in army leader being charged with campaign of genocide by the Hague in Netherlands.
+	- <iframe src="https://www.wikiwand.com/en/Srebrenica_massacre" class="resize-vertical" style="height: 938px; filter: invert(90%)"></iframe>
+- Dwelling on the past mistakes is GOOD, what is NOT good is dwelling past the point of UTILITY.  Counter productive.
+	- Bret Weinstein, Lex Fridman Podcast
+- Summary of Hunter Gather's Guide to the 21 Century
+- Prophylactic
+	- Condom
+	- preventive measure - a medicine or course of action used to prevent disease.
+- Move recommended by Quentin Tarantino 
+	- Life of Brain
+	- Harold and Maude
+- Normal Distribution or Gaussian Distribution
+	- Read Wikipedia Article 
+- Turing Test
+	- Watch a Video or read Wikipedia
+- If we go back to the Savannah, it would be advantageous not to be devoured by a lion
+	- Donald Hoffman
+		- Cognitive Psychologist
+			- Fundamental Nature of Reality:
+				- rooted in the struggle of reality
+	- <iframe src="https://www.youtube.com/embed/dqDP34a-epI" class="resize-vertical" style="height: 269px;"></iframe>
+- Drake Equation Wikipedia
+	- YouTube Lex Fridman 
+- Watch Charles Hoskinson YouTube Videos
+	- <iframe src="https://www.youtube.com/embed/oS5k_hT0aA4" class="resize-vertical"></iframe>
+- Watch the Matrix series and Read on Reddit and Wikipedia about the meaning
+	- Watch Commentary about the movie if possible on YouTube 
+- Blue vs Red pill meaning
+	- Red pill
+		- want to learn about a potentially unsettling or life-changing truth
+	- Blue pill
+		- remain ignorant about reality or the truth to keep onward
+
+- Voice of reason
+	- Bad Friends - Bobby lee, Stan lee, Edward
+		- You know it's a bad show, when Bobby Lee is the voice of reason in the room.
+- Bo Burnham
+	- Art is Dead
+		- Interesting comedic song about the mental/psychology of comedians
+- Plexiglass
+	- 2020 Corna Virus Pandemic 
+- Research Earnest Becker on view and ideas
+	- duckduckgo "earnest becker views / Wikipedia page"
+- Lex Fridman Podcast with Cardano Co-Creator as guest
+	- God did not go through a peer-review process for the ten-commandments.
+- Turning the current system of blue nation
+	- The Creature of the follow of the current past of the future talent is what we make of it! Clueless of the future it the characters account of the true nature of the whole time of see in the now and the two sense of the word of the future.
+		- Current talent
+- Deep Blue
+	- Alpha Go 
+- The head evolved to be a certain size and flexible (skull compresses) enough to pass through the birth canal
+	- In fact, a babies skull has bones designed  to move around. the bones look like puzzle pieces; they fit together, but aren't actually joined.
+- can meritocracy live along side equality  
+- dark horse
+	- unexpected winner
+- Inequality in US Wealth
+	- https://mkorostoff.github.io/1-pixel-wealth/
+- Tap Dancers
+	- Barry Brothers
+	- Nicholas Brothers
+		- Video from 1943 movie the Stormy Weather
+- "To be an artist mean that you can never turn away your eyes"
+	- JRE #1660: minute 122
+- Gravity propagates at the speed of light:
+	- "...So if the sun suddenly exploded or disappeared, we would continue orbiting it for 8 minutes even though it's no longer there."
+		- Lex Fridman Tweet (06/08/2021)
+- My DNAage
+	- David Sinclair
+- Oceania (14)
+	- Micronesia (5) - PMMNK (PM.MNK)
+		- Palau
+		- Micronesia
+		- Marshall Islands
+		- Nauru
+		- Kiribati
+	- Melanesia (4) -  PSVF (PS.VF)
+		- Papua New Guinea
+		- Solomon Islands
+		- Vanuatu
+		- Fiji
+	- Polynesia (3) - STT (Stop TOP TOP)
+		- Tuvalu 
+		- Samoa
+		- Tonga
+- Asian small states (4)
+	- Maldives
+	- Brunei
+	- Timor L'este
+	- Singapore
+- 8 Lesser Antilles Sovereign UN recognized states
+	- 5 Islands
+		- Barbados
+		- A&B
+			- Antigua & Barbuda
+		- Grenada
+		- Dominica
+		- Trinidad and Tobago
+	- 3 Saints:
+		- Saint Lucia
+		- Saint Kitts and Nevis
+		- Saint Vincent & the Grenadines
+- Brown Noise vs White Noise
+- https://www.bbc.com/news/magazine-20243692
+	- 3 Meals a Day Lie, no evidence for health benefit in fact, 1 meal a day has more health benefits (research shows) 
+		- IT's pretty clear, fasting works, just as exercise
+- Slippery Slope AFallacy
+	- An idea or an action that will lead to something else often dangerous, disastrous, or wrong
+	- Is not actually a fallacy
+- Thomas Sowell 
+	- https://www.youtube.com/c/OdolenaKostovaDigitalMarketing/videos
+	- Some folks in America were never taught the difference between right and wrong, they learned, "don't get caught"...
+	- . Also, funny enough education is one of the very few products you can purchase once only and never return or get your money back
+- Subtle art of not giving a fuck - read this book  
+TL;DR - just do what you can as best as you can - you can not do any better than that. And don't care if you won't meet expectations of other people - worst thing that could happen to you is just being fired - so what? You'll find another job
+- Do your work but don't be afraid you didn't do great
+- Algorithms to Live By 
+	- Book seen in one of the Obsidian plugins
+- https://www.reddit.com/r/financialindependence/wiki/faq
+- https://www.reddit.com//r/personalfinance/wiki/index
+- Yakov Yurovsky
+	- "Romanovs chief executioner"
+- Tsarskoe Selo
+	- Russian Imperial Retreat 15miles south of Capital at the time Saint Petersburg
+- The Romanov Sisters 4 Sisters
+	- OTMA
+		- Olga, Tatiana, Maria, Anastasia
+- the Spanish lisp
+	- There's an often-repeated myth that **King Ferdinand** of Spain had a **lisp**, and that his countrymen imitated him as a form of respect, which led to the development of “the Spanish **lisp**.” Historians and linguistics have refuted this claim, arguing that there's no evidence **King Ferdinand** had a **lisp**
+- Positive Association 
+	- Your more likely to return to a task or activity, if you had a positive experience doing it.
+- Exotic cats
+	- Savannah Cat
+	- Maine Coon
+- Peter Pan Syndrome
+	- "body of an adult, but mind of an adult"
+- Exploration and Explotation
+	- Search to gather new data; use that data/explote that data to make decisions
+- YouTube Comment on M.I.A. Borders song
+	- "Art should comfort the disturbed and disturb the comfortable.
+- Tomahawk Steak
+	- beef steak
+- Opinions are like ass wholes everyone has them
+	- Amelia Dimoldenberg YouTube channel = Avelino Guest
+- https://www.wikiwand.com/en/Brain-to-body_mass_ratio
+	- 
+- false melody vivid identify kitten country cube since hunt engine erase sing
+- Carl Sagan Quote from Lex Fridman Podcast 184 (time: 1:56:56)
+	- "In 1994 Carl Sagan wrote:
+		- On Titan, the molecules that have been raining down like manna from heaven for the last 4 billion years might still be there, largely unaltered, deep frozen, awaiting the chemists from Earth.
+- I am, always have been, always will be, neither one thing nor the other
+	- Stromae - Racine Carree concert on YouTube (8:10)
+- Sky burial
+	- Feeding dead body to Vultures in Tibet to nurture nature
+- Ave Cesaria song by stormae
+	- comment: A Belgian guy singing French in America about a Cape Verdean Lady with a portuguese instrument...
+- Take notes on this:
+	- https://www.youtube.com/watch?v=QsZTGvMnqnc
+		- how information: overly simplified, villian--dehumanizing s.o, hero--makes us belonging
+- Watch all the videos you liked or in want to watch list in aderaj3w account
+	- And take notes on here
+-  https://en.wikipedia.org/wiki/God_Is_Not_Great
+- gerrymandering
+	- wikipedia.com/gerrymandering
+- https://my.replika.ai/signup/create-account
+	- AI Chat
+	- Lex Fridman Podcast
+- Existential angst 
+- Deutsche Welle
+	- public state-owned German international broadcasting organization funded by German federal tax budget 
+	- "German wave"
+- Hedonic treadmill
+	- if you want $1, you'll want $10, you'll want $100, 1k,
+- Relative 
+- Don't ask to ask, just ask
+	- http://sol.gfxile.net/dontask.html
+- https://www.reddit.com/r/cscareerquestions/comments/mxl911/200k_tc_offer_what_i_did_to_prepare/
+	- Read & Take Notes on what the writer did right and apply what you can
+- https://wtfhappenedin1971.com/
+- Internal Dialogues
+	- When the brain is on default mode
+- ZeroZeroZero show
+	- Watch, its 8 episodes
+- In and of Itself
+- Millennial Whoop
+	- Whoao Whoao  Whoao Whoao  Whoao Whoao 
+	- 5 3 5
+	- Patrick Metzger
+- You got me, I felt for your trap
+	- I do feel like, I'm walking into a trap
+- https://www.wikiwand.com/en/Endianness
+	- Endianness
+- http://people.tamu.edu/~sdaniel/quesethi.html
+- Pugs
+	- The pug is a breed of dog with physically distinctive features of a wrinkly, short-muzzled face, and curled tail. 
+	- ![pug] (https://upload.wikimedia.org/wikipedia/commons/f/f0/Mops_oct09_cropped2.jpg)
+- Salaried Employee
+	- s.o. who receives a fixed amount of pay (salary) regardless of how many hours they work each week. This means a salaried employee is paid for 40 hours a week, even if they work fewer hours.
+- https://www.wikiwand.com/en/Operation_Red_Wings
+- Death comes for all of us, my friend
+- Supple 
+	- very flexible
+	- "Your a supple man"
+- How low did human population get
+	- See volcanic eruption that occurred in Indonesia.
+- All addictions are rooted to childhood traumas
+- https://www.youtube.com/c/JunminLee/videos
+- Camel's nose:
+	- The camel's nose is a metaphor for a situation where the permitting of a small, seemingly innocuous act will open the door for larger, clearly undesirable actions
+- Does a poet describe reality to same degree as a physicist?
+- https://www.lesswrong.com/
+- https://berkshirehathaway.com/reports.html
+- https://nissan.com/
+- Beneveloent dictators are blinded by their own eyes.
+	- A person has limitations
+- Paying taxes
+	- Cryptocurrencies
+		- 
+- Wikipedia > Blockchain
+- https://www.jordanharbinger.com/adam-grant-the-power-of-knowing-what-you-dont-know/
+- "Proper Preparation Prevents Poor Performance"
+- The rotation of Earth really makes my day
+	- "StarTalk by Neil deGrasse Tyson"
+- Watch Gad Saad - The Consuming Instinct 
+	- https://www.youtube.com/watch?v=_qHYmx7qPes
+- "Respectability is the unique prison where all of the gates are open, and th e inmates beg to stay inside."  
+	- YouTube comment on Eric Weinstein on Lex Fridman podcast #163
+	- Dev.to
+- Backend Engineer
+	- Java, nana on YouTube Kubernetes
+- Building apps for 
+- Migaku Anki Add on; 
+	- chrome extension for language learning
+- Remote Work links
+	- https://www.remoteimpact.io/
+- Inside Jobs
+	- Watch documentary
+- Adam Curtis 
+	- Watch Documentaries 
+- Three actual journalists according to Anna Khachiyan
+	- Matt Taibbi, Glenn Greenwald, Michael Tracey Journalist
+- YouTube alternatives
+	- lbry, odysee
+- Argument 1:
+	- 
+- Balance: work, family, friends, and personal time
+- Actively dreaming
+	- Prep about what you will before going to sleep 
+- The way we view  the people who hung people for witch craft during the Salem trials, when we look back from the future, we'll re-consider the way we berate and punish people for their behavior. Because arguments is there is no free will, their behavior is a product or result of infiinite number of causes and effects that have happened in the past that led them to execute that behavior. Like domino effect of actions.
+- Security 101
+	- Compartmentalize your email
+		- shopping, social media, personal, work, banking
+- Ad companies such as Google and Facebook
+	- Your paying for your own imprisonment
+- Independence
+	- Training
+- "The past is a foreign country"
+	- You can still be interested in the past. If the past is a foreign country, why not be a tourist of i
+- Building tomorrow the night before
+	- Give me something difficult to do, I'll do it in a couple of days its due
+- We don't really want what we think we desire
+	- Slavoj Zizek
+	- We enjoy the process that were happiness lies
+- Rational Buddhism 
+- Scott Galloway and Angela Duckworth
+	- Practical way to approach this finite span of life
+- Before diagnosing people with depression make sure they are not separated by assholes.
+- Assume your colleagues know something that you do not.
+	- So, listen attentively when someone else speaks.
+- failing fast for learning
+- pyramid scheme?
+- Type of fights
+	- UFC
+		- Muay Thai
+		- Jujutsu 
+- Plausible deniability
+	- ability to deny involvement in illegal or unethical activities.
+- What is the Purpose of Life?
+Evolutionary Answer: To survive long enough to reproduce with a choice specimen (or specimens) and to ensure the propagation and advancement of the species.
+Selfless Answer: To help others as much as possible.
+Purely Capitalistic Answer: To amass and generate as much wealth as you can.
+Hedonistic Answer: To have a pleasurable time.
+Singularitan Answer: To help advance technology to the point of exponential awesomeness.
+Nationalistic Answer: To help your country continue rocking the hardest.
+Vainglorious Answer: To achieve historic cultural immortality through writings, conquests, or deeds.
+Viking Answer: 'Lo, there do I see my father. 'Lo, there do I see My mother, and my sisters, and my brothers. 'Lo, there do I see The line of my people. Back to the beginning. 'Lo, they do call to me. They bid me take my place among them. In the halls of Valhalla. Where the brave may live forever.
+Angst ridden fatalistic nihilism is for pansies. I recommend you pick a combination of your favorites from above and get cracking.
+- https://commoncog.com/blog/the-mental-model-faq/
+- https://historyinhighheels.com/2013/10/how-to-read-like-a-grad-student/
+- "Extinction is the norm, survival is an exception" -Carl Sagan
+- obejctive function definition
+	- what is the objective function of life
+- https://deepmind.com/
+- Third Eye Blind - Semi-Charmed Life (Official Music Video)
+- Impact Theory
+	- Watch all science based videos
+	- Kelly McGongial
+- AJR - Sober Up (feat. Rivers Cuomo) (Official Video)
+- Allman Brothers Midnight Rider
+- jimmy Hendrix
+	- vodoo child
+- Tribe called quest. 
+	- The low end theory
+- Linkin Park - hybrid theory
+- ac/dc - back in black
+- https://www.youtube.com/watch?v=PSaybP1UivQ
+	- Is our attention for sale!
+	- add to this channel as a go on Obsidian 
+- https://www.raquelmoss.com/on-imposter-syndrome-and-learning/
+	-  3. Realise that everyone is just making it up as they go along. 
+- Napoleon's retreat from Moscow 1812
+	- https://www.youtube.com/watch?v=lNReCCShKJQ 
+- https://www.google.com/search?channel=fs&client=ubuntu&q=afirmitive+action+and+recent+african+immigrants+vs+black
+	- https://www.reddit.com/r/education/comments/hi8iga/robin_diangelos_white_fragility_is_harmful/
+	- https://www.google.com/search?channel=fs&client=ubuntu&q=afirmitive+action+and+recent+african+immigrants+vs+black
+- https://www.youtube.com/watch?v=nlLcBQPQ96Q
+	- Take notes on the last part of the video, when he talks about settling differences
+- https://www.reddit.com/r/personalfinance/wiki/index
+- YouTube, Reddit, Google Search
+	- how to win friends and influence people summary
+- the evolution of desire book summary or audio book
+- Hors d'oeuvre
+- Japanese Pop 
+- https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg
+	- Psychology
+	- Sociology
+- "Listen Morty, I hate to break it to you, but what people calls 'love' is just a chemical reaction that compels animals to breed.
+- https://www.reddit.com/r/privacy/comments/jog1k6/49_facebook_employees_dont_believe_it_had/
+- It is and always has been a special ability for we Trojans to see the world not how it is, but as it could be.
+-  Note to self: take note on these ideas then re-highlight those highlights.
+	-  https://dev.to/deepu105/how-to-become-an-effective-polyglot-developer-3moe
+	-  https://deepu.tech/most-important-things-i-learned-in-a-decade/
+	-  https://tim.blog/2020/10/14/naval/
+	-  Google, YouTube, or Reddit: How does the internet, WiFi, radio, cell phone work?
+		-  https://www.youtube.com/watch?v=Ax7dYaRiY6o
+		-  https://www.youtube.com/watch?v=ZhEf7e4kopM
+	-  Google: how to remember what you read. 
+		- Read through all the each of the articles & take notes on the most important
+	-  Google: learning how to learn notes coursera
+	-  Google: cal newport deep work `notes`
+	-  https://www.youtube.com/watch?v=zkPOHB2rRkc
+	-  https://romanovs100.com/
+	-  NSFW Reddit History or Google
+		-  https://www.reddit.com/r/AskReddit/comments/jjl03m/whats_an_nsfw_fact_about_history_that_we_dont_get/
+	-  https://romanovs100.com/
+	-  zero sum game, YouTube or Wikipedia or Reddit
+	- Actually we do have our own simulations when we are having a night dream. Think about it. When you are in your night dream you are kind of in another reality. At that time it feels as if that reality is the only one possible. You do not have a clue that at that time actually you are lying in bed dreaming and the reality you are feeling is not true. In this dreaming reality you are feeling anger, passion, happiness, pain, fear and love just as well as in your real reality. And you cannot suspect that this reality is not actually real. It is true, is not it? But in the morning you wake up and analyze that that dream makes no sense at all. You cannot fly, you are not a super hero, and your dream violates the basic laws of physics. And the most important thing is that every other night you have a different dream and do not remember anything about the dream the night before. And there is an interesting question. What if in your current dream you remember your previous dreams from all nights before. In this way your dream would be connected with the previous ones. It would be like the continuation of the story you had at previous nights. When you are 30 years old you would have a very long dreaming story. It feels like you are living one more life in a different reality. Since you remember your dreams when you wake up in the morning than you remember both of your lives when you are awake. And what if you also remember your real life when you are dreaming? It this case you would live in two realities, had friends and social life in both of them, would remember both of them at the same time and eventually your brain would not be able to identify which reality is real and which is not. 	
+		- YouTube comment on Elon Musk answering a question that there is a 1 out of a billion chance of living in a simulation.
+	-  https://theintercept.com/2020/09/22/as-joe-rogans-platform-grows-so-does-the-media-and-liberal-backlash-why/
+	-  https://www.humanetech.com/podcast
+	-  Emotional Intelligence Wikipedia & YouTube 
+	-  https://www.wikiwand.com/en/Young_adult_(psychology)
+	- https://www.wikiwand.com/en/Single-nucleotide_polymorphism
+	- https://www.wikiwand.com/en/Grit_(personality_trait)
+	- html5 vs flash
+	- http://www.catb.org/~esr/faqs/smart-questions.html
+	- Equality of outcome vs equality of opportunity
+		- Joe Rogan mentioned it in a podcast with Matthew Mcconaughey 
+	- Google what is the goal function of humanity or life in general
+	- https://yudkowsky.net/rational/
+		- Compare to wikipedia article on rationality & lesswrong.com
+	- https://www.unqualified-reservations.org/2007/04/why-do-atheists-believe-in-religion/
+	- Fermi Paradox
+		- watch Kurzgagt youtube video and take notes
+	- Watch Cocaine Cowbays Documentary
+	- Imposter Syndrome
+		- Google and find examples from your career
+	- YouTube or Google what is Mbps?
+	- https://www.youtube.com/channel/UCDcrWsp9UrrbA7NAL6CcVpw
+	- Google or Wikipedia, YouTube the Socratic Method, Street Epistemology
+	- It's all about data!!! analogous to computer data structures made at the fundamental level arrays (data stores contiguously in memory) vs linked lists
+		- the brain, computer systems, human interaction, society its all about taking some information parsing it, storing data deemed value, and make decision based on the input data
+			- Examples:
+				- Machine Learning
+				- AI
+	- https://www.wikiwand.com/en/Spectrum_of_theistic_probability
+	- Wikipedia: central dogma of molecular biology
+	- https://www.wikiwand.com/en/Ey
+	- Similarities and differences between brain and computer systems and CRUD operations
+	- how do you avoid echo chambers or group think?
+	- individual vs systemic behavioral responsibility [article](https://fee.org/articles/criminal-justice-the-legal-system-vs-individual-responsibility/)
+	- bits of entropy what is it?
+	- Social Psychology
+	- https://www.wikiwand.com/en/Natural_selection
+	- your as a human are  a node in a network, ex: web page is a node in internet network
+	- google nickles and dimes work out,
+	-  I recently discovered dendron (https://www.dendron.so/) to scratch exactly the same itch you have. --interesting saying.
+	- atom intro and end of Logic album that featured NDT
+	- The Coddling of the American Mind, Jonathan Haidt -> check out summary or jre, sam harris podcasts
+		- take notes on this https://www.youtube.com/watch?v=9CW90oFvmp8
+	- Reading Quantum mechanics by Michael Nielson [Quantum](https://quantum.country/qcvc)
+	- Udemy courses, Coursera or any online courses and blogs to improve, writings skills.
+		- write every morning before going to the bathroom for 30 minutes.
+	- What does it mean to have great communication skills in a job post [Article](https://www.careerfaqs.com.au/news/news-and-views/excellent-communication-skills-what-does-it-really-mean#:~:text=Having%20good%20communication%20skills%20in,able%20to%20read%20your%20audience.)
+	- [How to take smart notes](https://fortelabs.co/blog/how-to-take-smart-notes/)
+	- Are recent immigrants (by regions such as Carribians (Jamaica, Cuba) or SubSaharan Africa (Nigeria, Ghana, Ethiopia) likely to attend Universities than those.
+		- whether black americans or white americans with more than 2-3 generations.
+		- Check out articles by Quilet possible written by the young black dude from Columbia U.
+	- Harvard course check out the link possible saved on Notion, a course about how computers work, take notes on that to put on Anki
+	- Google the most helpful GitHub repositories for Software Developers and star them.
+	- Check out and play around with other human body male and female 3d images to get an understand of your health, and diet and exercise. [3D human body](https://www.zygotebody.com/#nav=-5.05,149.05,100.05,0,0,0,0&sel=p:;h:;s:;c:0;o:0&layers=1,0,6787,0,0,4296,10000,10000,10000,10000,10000)
+	- "Why wouldn't I want products tailored to my needs?", "Why do I care if mint knows I shop at Walmart?"-A Reddit comment about, a question asking whether it is safe to use mint application? and a comment argued that "mint gathers a profile using your purchasing history and location and other personal data to sell info to advertisers or target you with products"
+		- READ: https://www.theatlantic.com/business/archive/2009/10/the-cons-of-targeted-advertising/27764/
+	- READ [this](https://thebestschools.org/magazine/controversial-topics-research-starter/) and try to google and compose a list for arguments for and against all controversial topics such as Welfare, Affirmative Action, Reparation, gun ownership, positive stories about gun ownership, counter arguments to those, to protect against the government, if the government becomes a dictatorship, Gender Pay Gap search Reddit, /r/AskFeminist group
+	- Add to Anki the image of MW galaxy and the number of stars a person can see/resolve with the naked eye.
+	- Scott Galloway professor at NYU Stern School of Business => talks and YouTube channel on popular videos, take notes, 
+	- Take Notes: [Aswath Damodaran Valuation, Companies Life Cycle and Technology Companies 2018](https://www.youtube.com/watch?v=MSQCLasNIdA)
+	- "stunning lack of insight in human nature."
+	- Attention is a scarce resource:
+		- https://news.ycombinator.com/item?id=24391686
+		- https://www.wikiwand.com/en/Attention_economy
+		- https://medium.com/@bauhouse/attention-is-a-scarce-resource-in-an-economy-that-is-based-on-the-creation-and-trade-of-information-da098101dee0
+	- "como yo le doy" -- song
+	- Dunning-Krugal Effect
+	- [TSA fail rate 95%](https://onemileatatime.com/tsa-fails-tests-95-percent/)
+	- [Debra Soh](https://www.youtube.com/watch?v=4BSb92OYA0g)
+		- https://www.youtube.com/watch?v=DpMcsM5tRTs
+		- https://www.youtube.com/watch?v=S_hS-JXoTMk
+		- The End of Gender: Debunking the Myths about Sex and Identity in Our Society
+	- Book recommendations by Michael Shermer
+		- Shermer recommends these books rather than Richard Dawkins to Christian, who are skeptics of Evolution because these books are written by people who are part of their tribe (Christians who believe Jesus is their savior). By doing this, it might be alot of easier to convince them to change their thinking.
+			- language of god Francis Collins
+			- Kenneth Mille, a Catholic.
+	- https://en.wikipedia.org/wiki/Kinsey_Reports
+	- The arguments for and against putting race behind everything such 'black exellence'.
+		- https://www.reddit.com/r/unpopularopinion/comments/a4gacn/the_people_who_add_race_into_everything_by_saying/
+	- Watch YouTube video on 23 things they don't tell you about capitalism
+	- Greek Mythology
+		- read on wikipedia
+		- maybe take an online course and put it in Obsidian than Anki 
+	- Holodomor cannibalism
+		- Russian famine 1930s
+		- compare it to Holocaust by the numbers
+		- Wikipedia, Google images, YouTube Videos
+		- Mr.Jones movie
+	- Earth was bound to give carbon-based life given the energy source from the Sun
+		- [tweet](https://twitter.com/elonmusk/status/1303102454741958656?lang=en) tweet from Elon Musk
+			- "If you bombard Earth with enough photons, eventually it emits a Tesla (AK)" - Elon Musk tweet
+			- reply to the above tweet ""If you leave hydrogen alone for long enough, it starts to wonder where it came from...""
+	- Clicking on the first link in the main text of a Wikipedia article, and then repeating the process for subsequent articles, usually leads to the Philosophy article. In February 2016, this was true for 97% of all articles in Wikipedia. [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy) [YouTube](https://www.youtube.com/watch?v=Q2DdmEBXTpo)
+		- The remaining articles lead to an article without any outgoing wikilinks, to pages that do not exist, or get stuck in loops.
+	- learn greeking root words
+	- how was jeff bezos phone hacked
+	- https://mathbench.umd.edu/modules/env-science_tragedy-commons/page01a.htm
+		- tragedy of commons
+	- time blocking is a time management method that asks you to divide your day into block of time.
+		- less friction, no need to make constant choices
+		- fewer context switching
+		- build in breaks
+	- I had a professor in college who used to tell students who didn't hand in projects on time "What are you doing from midnight to 6 am?" The guy is 37 but looks about 50.	
+	- "to each their own"
+	- David Epstein
+		- The sports gene
+		- Rage: Why Generalist Triumph in a specialized world
+		- https://www.youtube.com/watch?v=FLvcJyZiiUI
+	- Zettelkasten - understanding and gaining new insight
+	- Anything you just need to know should go in Anki, anything you want to delve deeper into on a conceptual level should go in Zettelkasten. 
+	- empathy vs sympathy vs pity
+		- https://www.youtube.com/watch?v=1Evwgu369Jw
+	- groundhog day ideas 
+	- ex-machina
+		- Just simply get the movie themes
+		- You do not necessarily need to watch the whole movie, read upon it on Wikipedia or Reddit
+	- "it is possible to commit no mistakes and still lose"
+		- https://www.youtube.com/watch?v=t4A-Ml8YHyM 
+		- a Reddit user linked this video under a post talking about an experienced developer with 7 years under their belt, still getting rejected from their "Dream Job"
+	- difference between Bone and Fossil 
+	- What matters in note-taking is not the quantity of ideas, but the density of insights	It's easier to maintain high density if you take fewer notes	The fewer notes you take, the better
+		- Tiago Forte tweet
+	- Zero sum game meaning
+	- https://www.youtube.com/user/sociology119
+	- https://www.wikiwand.com/en/Computer_virus
+	- Fortune 500 podcast, where CEO of GM guest
+		- host talked about how GM in the 1960s, in helped build the black middle class and gave, which in turn helped, build Black Culture, Motown in Detroit
+	- https://positivepsychology.com/5-ways-develop-grit-resilience/
+	- Mary Barra, CEO of GM
+		- Generally, a lot of times, when you solve issue for women, you solve issue for everyone.
+		- I didn't know, what I didn't know
+	- https://www.youtube.com/watch?v=qu7dN_FRZUg
+	- statically typed vs dynamic
+		- type is checked at runtime vs compile time
+	- https://github.com/sindresorhus/awesome-nodejs
+		- Star this on github
+		- create a list of awsome of awesome lists that you can refer to here on Obsidian
+		- Create a index and have this in the index as well, maybe use embedded view of links
+	- https://www.wikiwand.com/en/School_choice
+		- Phillip W. Magness
+	- https://www.google.com/search?client=ubuntu&hs=O0G&channel=fs&ei=_Vt6X5eeOoq1ytMPz-G-uA8&q=generation+y&oq=generation+y&gs_lcp=CgZwc3ktYWIQAzIHCAAQsQMQQzIFCAAQsQMyBQgAELEDMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQR1D5H1iPJGC7JmgAcAJ4AIABR4gBigGSAQEymAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=psy-ab&ved=0ahUKEwjXkL_xjJzsAhWKmnIEHc-wD_cQ4dUDCAw&uact=5
+		- Ankify 
+	- arguments of the best political systems 
+		- https://www.youtube.com/watch?v=GRZqBH0DRYc
+	- Göbekli Tepe 
+		- https://www.wikiwand.com/en/G%C3%B6bekli_Tepe
+		- "potbelly hill"
+	- The problem is that it isn't actually capable of writing anything; it is like pointing out that every book ever written is in pi. Things which contain more noise than signal are worthless, and that's the problem with the library - it is all noise. It contains no information at all.
+- https://www.quora.com/Why-do-older-men-like-me
+- https://i.redd.it/w5vqmcucc2s51.jpg
+	- pale blue dot:
+		-  "A world that tiny cannot possibly be the center of a cosmos of all that is,let alone the sole focus of its creator. The pale blue dot is a silent rebuke to the fundamentalist, the nationalist, militarist, polluter..."
+	- what does it mean when individuals do not evolve populations do?
+		- https://biology.stackexchange.com/questions/53371/what-is-meant-by-individuals-do-not-evolve-populations-do
+	- Eric Weinstein
+		- ideas or books or blogs
+		- http://www.eric-weinstein.net/Papers/Eric_Weinstein_Migration_for_the_Benefit_of_All_International_Labour_Review_Vol_141_2002_No_3.pdf
+	- Female and Male Sex Organs
+		- Fertilization cellular pathway, YouTube, Google images, -> Anki diagrams
+- https://www.youtube.com/watch?v=_o7qjN3KF8U
+Joe Rogan Experience #1541 - Bridget Phetasy
+having kids is awesome don't get me
+- https://you.23andme.com/reports/maternal_haplogroup/
+- Apartment hunting can be a lot like a relationship — you start out with a list of ideal qualities, but the odds of finding someone (or some place) that meets all these may not be realistic.
+	- “Regardless of your budget, there is no perfect apartment,” Werner said. “Renting is all about tradeoffs.”
+- The Crime-Age Curve
+	- crime and victim peaks at age 21-24, justice department
+	- https://www.youtube.com/watch?v=3dhs2NFCLBI
+- Getting to know someone closer
+	- https://ggia.berkeley.edu/practice/36_questions_for_increasing_closeness
+
+- How did the Four Fathers of the American Constitution come up with:
+	- "life, liberty, and the pursuit of happiness"
+	- "church and government is separate"
+- https://www.wikiwand.com/en/Psilocybin_decriminalization_in_the_United_States	
+- https://youarenotsosmart.com/2013/05/23/survivorship-bias/	
+- Add Carl Sagan's quote to Anki, using Cloze deletions
+
+
+79:14
+wrong yeah but you don't have to have
+79:16
+kids
+79:16
+like this this idea that the path that
+79:18
+everybody takes is the path you have to
+79:20
+have there's there's something about it
+79:21
+that used to infuriate me when i
+79:23
+when i was younger where uh people would
+79:25
+tell people with children would tell you
+79:26
+you have to have a child
+79:28
+yeah and i believe that feels like a
+79:29
+prisoner telling me that i need to
+79:30
+commit a crime that's right
+79:32
+like come come with us it's you don't
+79:34
+have to
+79:35
+no you don't have to i don't look i
+79:36
+don't i don't have a
+79:38
+like a steadfast rule for anything
+79:42
+involving human beings in their path in
+79:44
+life as long as they're doing no harm
+79:46
+yeah i think as soon as someone does i
+79:48
+always feel like they're trying to
+79:49
+justify their
+79:50
+own path but try like how many people
+79:52
+who do certain things want you to do
+79:54
+those thing 

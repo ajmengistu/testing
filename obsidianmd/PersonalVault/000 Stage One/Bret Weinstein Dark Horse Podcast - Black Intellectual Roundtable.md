@@ -1,0 +1,41 @@
+# Podcast
+## Intro
+- Forgive me for having invited you here on the basis of having some African ancestry.
+- Bret evolutionary biologist, recent 1000s of years,
+	 - Its fair to assume everybody in the panel can trace their ancestry to Africa in the last 1000 years
+		 - Except, Bret, who traces his ancestry in the last 1000 years to Europe
+ - "All of of us, have entirely African ancestry"
+ - We are in a renewed racial conflict that is badly cast, and a distraction to a much deeper issue that is:
+	 - long-standing, and extensive political corruption that has frozen citizens out of the well being that is produced by their labor in our markets.
+	 - We are in fact being misled into fighting each other when there is a much more obvious enemy.
+## 	
+- Glenn
+	- There is a supposed to be an epidemic of racist police killings of black people, I don't think that is true
+- Glenn
+	- America is not fundamentally racist nation but that black American faces problems that are complex and systemic both of these can be true at the same time
+- Coleman	
+	- Policing is a difficult problems and the current structure does not provide an incentive for police to be at their best.
+	- The media has prepared black people to think of this kind of event as something that happens only or overwhelmingly to black people and they're therefore to react as if our people are being hunted by selectivity omitting all cases where this happens to white people.
+		- Some of the solutions that are being proposed such as reparation and hiring more corporate positions for black people, 
+		- symbolic fake solutions
+			- reparation
+				- how does this help police brutality?
+			- hiring more black people for corporate positions
+				- Where the link between that and fixing broken public schools
+			- Conclusion
+				- we need better solutions
+- Thomas
+	- Some reparation might go a long way towards or healing some of the division in our society
+		- he starts with the premise that race isn't real, but racism is
+- John McWhorter
+- Chloe
+- Camille 
+	- Batting cleanup 
+		- to finish a job that other have started. The implication is that someone who is batting cleanup is the most competent.
+		- In baseball, the fourth person in the batting lineup is batting cleanup. He is the most powerful hitter and is expected to hit a home run that will drive ==in== everyone on base.
+- Bret Weinstein
+	- race is simultaneously central and for a good reason and a distraction and that is confusing us
+- Glenn
+	- Welfare, Affirmative Action, and Crime
+		- reparation is a ==terrible idea==.
+			- 

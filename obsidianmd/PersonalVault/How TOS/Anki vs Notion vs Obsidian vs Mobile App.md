@@ -1,0 +1,44 @@
+# Learning Tools
+## Use case
+- Anki
+	- https://www.supermemo.com/en/archives1990-2015/articles/20rules
+- Notion
+	- Pros:
+		- book marking and capturing
+		- Calendar
+		- database
+		- FREE storage!! (can store a copy of the original images from the web in the cloud, NOT a link to that image)
+	- Cons:
+		- Too much of a cognitive load/ too much friction (too many configurations), can be a bit overwhelming
+		- May need to pay in the future to use
+- Obsidian
+	- Pros
+		- Create a to-do list
+		- Free to use and will always be
+		- its markdown, notes are portable
+		- descent VIM key bindings
+			- easily take hierarchical notes 
+		- Create a Knowledge map, tree, tree graph
+		- Create Anki cards
+			- Image Occlusion, MUST be done manually
+			- front and back cards will be created in Anki using a Python script that search for a pattern
+				- and updates cards if the hierarchical notes are modified and not create a new card if it already exists.
+				- Cloze can be achieved by surrounding the word or phrase via '{{hello}}'
+	- Cons
+		- Not free automatic sync to the cloud, must use a cron job to sync google drive
+		- Must
+- Anki
+	- Great SRS, but without linking 
+
+- What _too_ look for in a note-taking tool:
+	- free version sync to the cloud
+	- Built-in SRS similar to Anki & similar to RemNote 
+		- Image occlusion
+		- Cloze
+	- Vim key bindings 
+	- Tree-like note taking
+	- bidirectional linking
+	- Both Desktop & Web or Mobile Apps
+	- Compatible with Libby (export highlights and Notes, with other metadata such as page number)
+	- Sync with Airr (podcasts highlights, "air quotes")
+	- Plain text such markdown with 'WYSIWYG' like 'Typora'. Thus, cost effective. Thus, you own your data on your own server such as syncing it with Googles Drive.

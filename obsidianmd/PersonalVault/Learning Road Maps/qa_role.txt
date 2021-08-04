@@ -1,0 +1,139 @@
+# Switching roles to a dev role
+- reasons to like it
+- reasons you don't like it
+	- nice pay
+	- not much 
+	- too many meetings
+	- mentally demanding; too many conversations 
+		- expand on this ^
+	- no coding; simply manual testing
+- possible solutions
+	- swallow your pride, wait long enought to switch out to dev role  
+		- ^move on to another company as a dev role
+		- wait 6m - 1yr doing manual testing
+	- switch within company into a dev role
+		- wait 3m - 1yr doing manual testing; automation
+
+- meet with manager
+	- ask how soon, I can switch roles to a dev position
+		- I kind of need a timeline; so that I know what I'm working towards 
+		- I need to know if I should take training courses after work; I do not want my coding skills to depreciated
+		- Or apply to a masters program; to make myself competitive; Or obtain certification in a particular programming language or DB
+		- I don't want my debugging skills/mental muscle to depreciate
+		- I dont' want the courses and time I spent to be a programmer/coder to go to waste.
+	- For the time being, Ask to be placed in projects that involve test automation.
+## Important meeting with manager
+- Do not mention about anything that reveals your problems
+- "This is my first team that I've been on, and while I have really enjoyed being in your group, I'd like to see what else is going on. How long do people generally stay on teams before moving around?"
+- Mention you are attracted to the SDLC; writing and fixing software bugs; coding, and that I enjoy the work I'm doing, but I'd really attracted to programming and Java, I'd like to explore those opportunities. 
+
+# Possible solutions from Reddit
+- Apply dev job; Stay at the current job until July;
+- Have a job lined up before you quit; thoroughly bet your next place of employment
+
+# Manager 1x1 meeting
+- Where do get an updated version my project assignment for the next 6months or more.
+- There any way I can be working on both dev and QA projects
+- Can you provide me some estimates on how quickly I can transition into a dev; 3-6 months
+	- I afraid of my skills or experience with coding to atrophy; coding is like a muscle
+	- My skills and experience are best suited for dev; I can contribute more to GM as a dev
+	- Managers at large companies are trained to support employees transferring internally to increase retention and decrease attrition. 
+	- It's often better for the company for an employee to change teams rather than to flat out just quit and leave.  
+	- If they say 1 year, find another a dev role quickly as possible.
+- In the meantime, I can do more automation projects that involves writing scripts or code.
+
+- When can I noticed, both of my current projects involve manual testing. When will I transition into writing automation scripts? 
+- I would like to move into developer position, how can I 
+- Do the projects I'm working on right now have automation opportunities.
+- What online courses for right now can I take to develope my automation skills .
+- I'm currently a test engineer, but in the near future, I would really love to exploreo a dev role opporutnity within the GM; how will that affect the courses I will take for the tracks.
+- What resources or courses should I look into if I want to move into automated testing rather than manual?
+	- Are there opportunities for automation testing?
+- New manager Jeff; will I be directly having 1x1 with Jeff in the future? When 
+
+
+- SINCE, Lesss than 12 months in current role not normally permitted to apply for internal vacancies
+- FOR the time being ask for projects with automation rather than manual testing:wq
+
+
+
+------------------------------------
+1x1 Meetings what to talk about
+One on ones should be your time to get advice on your career, and your goals.
+
+These are some hint towards questions you can thing about and talk to your manager about. Your manager should probably be asking these things, but many of are not trained in how to manage people.
+
+It is a great time to discuss anything you are concerned / afraid of in your job. What are you excited about or looking forward to? Positive things are always great to hear (as a manager)
+
+Is your manager doing something that bothers you? Is your manager doing something you like / appreciate. Tell them.
+
+Are there members of the team not pulling their weight, from your perspective? Anyone doing a great job? Anyone do something you appreciated recently?
+
+Do you feel challenged in your work? Is there something you would like to get better at? Are you feeling to busy or overwhelmed?
+
+Is the team running the way it should? What can be done to improve? Is there something that is more difficult that it should be? What would make it easier?
+
+What are you doing well? What can you work on / improve?
+
+------------------------------------------------------------------------------------------------
+What io do Until We Switch Roles
+- Be assertive in the work you do; noone can read you mind
+- It's ok not to have any questions
+- If you feel like you've been silent; JUST say "just to make sure I understand... [re-word what they just said]"
+- Prepare for meetings the previous day 
+- Take notes on what you've learned
+
+---
+Dealing with Anxiety at Work
+- why the hell should you take care of
+something as sorry and wretched as you
+are 
+
+- chapter is yeah yeah yeah you know
+you're first of all yes you're pretty
+useless and terrible but so is everyone
+else
+
+what is it to say love the sinner but
+hate the sin it's something like that is
+that despite the fact that you're not
+all that you could be the proper
+attitude to have towards yourself is the
+attitude that you would have towards
+someone that you genuinely cared for and
+that it's incumbent on you to act as if
+you genuinely care for yourself just
+like you would act towards someone that
+you actually cared about some other
+person and so it's a reversal in some
+sense of the golden rule right and and 
+
+discussion of why why you have a moral
+obligation to do that it's not just that
+you should because it would be better
+for you it's you actually have a moral
+obligation to do that I think because
+you make the world a much better place a
+much worse place if you don't take care
+of yourself so you should bloody well
+take care of yourself you know because 
+
+partly because you have something
+valuable to bring into the world that's
+the thing about being an individual it's 
+
+position to do that and it's necessary
+for you to take care of yourself despite
+the fact that we're mortal and
+vulnerable and self-conscious and
+capable not only capable of doing
+terrible things but actually do them
+despite all that you you're still you
+still have that responsibility
+
+why people are have our contemptuous of
+themselves and there's plenty of reason
+that's for sure but the reasons do not
+justify the mistreatment of yourself
+it's as simple as that it's not a good
+strategy and the next rule 

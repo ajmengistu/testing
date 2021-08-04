@@ -1,0 +1,24 @@
+# What to do when bored?
+- Take a break!! by walking around back and forth/pace around back and forth and think about what you've done today or yesterday and what you need to do later or tomorrow by taking you yourself out aloud. It is important you say it out aloud in order to take the wandering part of the brain hostage.
+- Street Epistemolgoy YouTube Channel
+- Check out these YouTube Channels
+	- Charles Hoskinson
+	- Lawrence Krauss 
+		- The Origins Podcast
+	- Brian Greene
+	- Comma.ai
+	- Star Talk
+	- Lex Fridman
+	- JRE
+- Check out Bookmarked sites
+	- ![[!Bookmark]]
+- https://www.youtube.com/channel/UCDcrWsp9UrrbA7NAL6CcVpw
+## Reddit Community
+- /r/Frugal 
+- /r/personalfinance
+- /r/space
+- /r/dataisbeautiful
+- /r/dataporn
+- sporcle.com
+- https://www.wikiwand.com/en/Personal_knowledge_management
+- https://www.reddit.com/r/explainlikeimfive/top/?t=week

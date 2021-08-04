@@ -1,0 +1,3 @@
+- wern.net on SRS
+- Michael Nielson on SRS
+- supermemo.guru on SRS

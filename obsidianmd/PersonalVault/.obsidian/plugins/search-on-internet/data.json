@@ -1,0 +1,29 @@
+{
+  "searches": [
+    {
+      "tags": [],
+      "query": "https://www.google.com/search?&q={{query}}",
+      "name": "Google",
+      "encode": true
+    },
+    {
+      "tags": [],
+      "query": "https://www.wikiwand.com/en/{{query}}",
+      "name": "Wikipedia",
+      "encode": true
+    },
+    {
+      "name": "YouTube",
+      "query": "https://www.youtube.com/results?search_query={{query}}",
+      "tags": [],
+      "encode": true
+    },
+    {
+      "name": "DuckDuckGo Videos",
+      "query": "https://duckduckgo.com/?q={{query}}&t=brave&iax=videos&ia=videos",
+      "tags": [],
+      "encode": true
+    }
+  ],
+  "useIframe": true
+}

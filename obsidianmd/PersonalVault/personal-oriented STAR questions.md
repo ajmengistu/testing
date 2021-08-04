@@ -1,0 +1,96 @@
+## Personal/Self based, projects related STAR Q&A
+---
+- Name a time when you had to do something you didn't know how to do? how did you approach it.  
+	- learning a new programming language, 
+	- new framework, technology
+	- understanding & solving Dynamic Programming
+		- Fibonacci sequence
+	- have an achievable goal 
+	- plan
+		- top down, identify the end goal
+		- break the task, prioritize based logical and importance
+		- a deadline to complete each task, to avoid procrastination
+		- planning for possible unexpected events, flexible
+		
+---
+- Tell me about a time you had to convince a co-worker with data?, Tell me a time you convinced someone to see things your way?
+	- Well, its important to use data driven evidence rather than emotions to make effective arguments.
+	- During a summer internship at the University of Maryland in a microbiology laboratory. 
+	- My task was to come up with the most effective organic compound that can reduce bacterial growth from a list of organic compounds. I had to convince my research manager the single most effective organic compound to be used for my experiment during the summer 8-9 weeks.
+	- To convince my research manager:
+		- I spent the first week and half of my internship running a research on each of the different organic compounds.
+		- Once, I have acquired enough information. I decided on the most effective compound.
+	- The steps I took was to create a small presentation, while doing so, I kept several things in mind such as
+		- first establishing my objective and the point i wanted to get across, I used as much as data that was only necessary to avoid confusion.
+		- I used a bar graph so that I was able to easily highlight comparisons between the different variables.
+		- I highlighted percentage differences, by convincing my research manager that the chosen compound was x times more effective in reducing bacteria growth than the other ones.
+	- In the end, I was able successfully convince my RM and I was able to use start and complete my project for the summer and present my results.
+	- I learned that anytime I try and convince someone with an opposing viewpoint, I've found that the most effective way in doing so is to use data driven evidence. 
+	
+---
+- When have you completed a difficult task or project?, When have you learned a new skill or qualification?,  When was a time you learned something new and what did you learn from it?,  When was a time you worked really hard on a project and what was the result? A project you worked on and your proud of? and Why?, changes you would make to it?
+	- A project that I really worked hard on was developing a book tracker app with a microservices architecture.
+	- This was a difficult task because at that time I was only familiar with developing  full-stack monolithic applications. Because of this, I had to learn new concepts about microservices and the technology tools needed to implement one.
+	- I begin by using the SDLC process to plan, define, design, build, test, and deploy within a two week deadline.
+	- To achieve this goal:
+		- Then, I planned & design a high level diagram of how each component of the application fit together. For example, having  a book and user service with their own databases. 
+		- Then, integrated the client side using Angular.
+	- In the end, I was able to successfully complete this difficult project and deploy an Docker image of a  working microservices application to Docker Hub.
+	- I learned that persisting through challenges by breaking down problems into small tasks and prioritizing task based on logical order allowed me to stay on track to achieve my goal. 
+
+---
+- Tell me about a time you were in a difficult situation. How you faced adversity and how you dealt with it?  A challenge faced?,  Describe a challenge you faced and how you overcame it, Describe a project you had difficulty doing? How did you solve it?
+	- When I was learning to program and to code for the first time in undergrad, the challenge i faced, or the difficult situation i faced was, an Python error that occurred in a major project that I couldn't resolve for couple of days. The project was due within a week and a considerable part of my final grade and consisted of fetching a remote data via an API and creating a graph.
+	-  The situation was very challenging and frustrating and I almost wanted to give up a career in software engineering.
+		- I worked backwards from the end product, and created a to-do list.  I prioritized tasks based on the logical order of completing the pieces. "What should I do first, second ...". 
+		- Fetch the data from the API, then parse the data, cleanup and store only the data i needed. 
+		- Incrementally coded and tested each task.
+		- As a result, breaking down the problem allowed me to pin point the bug that was actually causing the problem, which as a regex parsing error.
+	- At then end, note only was I able to complete the project on time, I was able to receive an excellent grade on the assignment.
+	-  I learned that when I face a programming challenge, to remain calm and seek help to understand challenging concept. Then, step back and understand the bigger picture before breaking the problem down into small manageable pieces through incremental coding and testing.
+	
+---
+- Give an example of a goal you reached and tell how you achieved it. 
+	- My objectives for my internship were both completed and I also was able to develop proficiency in JavaScript and CSS. 
+		- 1. At the start of my internship, I sketched a model of the final product to understand the big picture.
+		- 2. I worked backwards from the end product, and created a to-do list of what I need to do to achieve that outcome. I prioritized tasks based on the logical order of completing the pieces. "What should I do first, second ...". For example, understanding d3js code before implementing the model.
+		- 3. Then, I created a timeline for completing each task. Having a deadline helped me become more focused for each task and avoid procrastination.
+				- For example, for the first week it was important to become familiar with the basics of CSS and JavaScript by using online resources.
+				- Read and understand the research articles about the algorithm.
+				- Then, I research example D3js models to get an idea the final product
+		- 3. In addition, I made sure, I met with my mentor every day to discuss my progress to stay on track and make appropriate adjustments to the plan.
+	- In the end, I was able to become proficient in JavaScript and CSS and complete my project in time and present my results.
+	- I learned breaking large tasks down into smaller manageable pieces allowed me to avoid stress and procrastination.
+	
+---
+- Can you tell me about a mistake you made at work and how you handled it?, Tell me about a time you failed and the lesson you learned from it, Tell me about a time in which you could have done things differently.
+	 - I made the mistake..., I failed to..., What I could have done differently is... ask for help.
+	 - At my previous internship, I had to implement a feature in a project and this was a visualization model on web page was not correctly rendering on the browser and moreover I had to present the project within a couple of days.
+	 - The mistake i made was that rather than asking my mentor for assistance out of fear of looking incompetent, I spent a whole day and half trying to debug the problem by-myself without any progress. Then, I was worried that I would not be able to complete the presentation in time.
+		 - However, in my next meeting I was able to bring up the problem.
+		 - I admitted my mistake to my mentor and took full responsibility and that I should have sought help earlier. 
+		 - Luckily, I managed to catch the mistake before the presentation was due to take place and I asked my mentor for help to complete it in time. 
+	- Now, I make sure to ask early enough to allow people plenty of time to tackle the task.
+	- I know the role emphasizes teamwork and the need to be in constant communication with one another, and I believe my ability to ask and answer questions of my peers makes me well suited to your company culture.
+	
+---
+- If you had a lot of things to do and not enough time to do them, what would you do?
+	- When I was taking a course on research writing, I had a semester assignment to write a research proposal on a scientific topic and had to be completed within a month.
+	- I was used to working under tight deadlines in undergrad, so I set up a week-by-week high level plan for what I needed to complete for the month taking into account other major assignments and exams for other courses. 
+		- First week, find a research topic "exercise and meditation as alternative forms of therapy for anxiety and depression" 
+		- Second week, do research on the topic and plan the skeleton of the paper
+		- Third week, write rough draft and have someone revise it at the writing center
+		- Forth week, write the final draft. 
+		- For example, when the first week of the of research proposal, I need to do a little research on each of the topics and I made sure I chose one by the end of the week.o
+	- Also, I understand that priorities can shift unexpectedly. Knowing this, I try to limit the number of daily tasks and try to save time in the event that I needed to make adjustments for any changes to my daily workload.
+		- For example, programming assignment might take me longer than expected, so I would allocate some time to complete research paper over the weekend.
+	- This plan allowed me to efficiently complete the assignment on time, but also with a excellent grade.
+	- I learned that creating a clear plan, and doing the most urgent and important tasks first, while also adjusting the plan when the unexpected events happen, is the best way to complete projects and maintain a healthy work-life balance.
+	
+---
+- What has motivated you to become a developer?
+	- Internship experience, cemented my interest in software engineering
+	- then, how you broke that goal down into small manageable pieces with deadlines to avoid procrastination  
+	- connect how you will bring value to the company.
+	- What motivates you?
+		-  I thrive on completing tasks and projects ahead of schedule, and I am naturally a curious person,I love learning new things and collaborating with a team to work toward a common goal. I have learned in school and my internships that there is more than one correct way to complete most tasks, and I am highly motivated to brainstorm ideas before a project begins, to find the most efficient path to completion that will offer the best outcome for the business. As an example, in my last internship I worked with my 2 mentors to implement a d3js visualization model. Because we were able to brainstorm different possible solutions in advance, I was able to complete and present my project within a short deadline

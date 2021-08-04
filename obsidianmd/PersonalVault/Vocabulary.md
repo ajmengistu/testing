@@ -1,0 +1,95 @@
+## Vocabulary
+
+`
+create a template for vocabulary words with: word, context, and definitions
+DO this for all other notes you tend to send to ANKI as well. Make note taking easier, faster, and same formats.
+`
+
+- ASDF QWERASD FASDFASDF QWERASDF QWERASDF QWERASDF
+- self-motivated
+	- motivated to do or achieve something b/c of one's own enthusiasm or interest, without needing pressure from others.
+- interoperability
+	- ability of a software to work across systems
+- soapsuds or suds
+	- froth or foam made from water and soap.
+	- Reddit commentator talking about how he does not prefer to shower with their partner because, he would have to wait in the cold with `suds` while the partner is using the warm water.
+- insufferable
+	- to extreme to bear; intolerable; unbearable
+	- A Reddit Comment about how r/killtony is show that Brian RedBan co-hosts, which the commentor finds insufferable 
+- nimble
+	- Tesla job description for a Software Engineer; be nimble and react quickly  to changing business conditions.
+	- of the mind; quick to comprehend
+	- quick and light in movement; agile
+- What does __flint__ mean?| What is __a piece of tool used with steel to produce an igniting spark__?
+	- Extra: where/context the word was first heard, maybe an image of a crocodile
+	- images
+- What are __crocodile tears__? :: What is __a fake tear__ called? (Hint: a large semiaquatic reptile) <span style="color:white;font-size:10px;"><sup>123123123</sup></span>
+	- image: ![White house crying crocodile tears for Syrian human rights. What about Bahrain, Yemen & Egypt ?](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Crocodile_tears_for_Syria.png/640px-Crocodile_tears_for_Syria.png)
+	- context: a conclusion or statement that does not logically follow from the previous argument or statement.
+	- synonyms:
+	- antonyms:
+	- other:
+- non-sequitur
+	- a conclusion or statement that does not logically follow from the previous argument or statement.
+	- absurd to the point of being humorous or confusing
+- Addendum
+- autodidact
+	- a self-taught person
+- ideologue
+	- an adherent of an ideology, uncompromising and dogmatic 
+- lurk
+	- be or remain hidden so as to wait in ambush for someone or something.
+	- lie low, hide, 
+	- read the postings in an internet forum without actively contributing.
+		- lurkers make up a large proportion of all users in online communities
+- lurker
+	- a person who lurks, a user of an internet message board or chat room who does not participate
+- compulsory
+	- required by law, mandatory, obligatory
+- What does __backlogged__ mean?:|What is it called when you have an __accumulation of unfinished tasks__?
+	- Extra: When you don't keep up with Anki cards that are due
+- hypochondria 	
+- surefire
+	- certain to succeed
+	- read from an article talking about what hiring managers are looking for in a candidate
+		- using your phone during the interview is a surefire way to turn off your interviewer
+- smoking gun
+	- strong conclusive evidence
+- Ceteris Paribus
+	- with other conditions remaining the same
+	- all other things equal  or held constant
+	- sedentary life style increases your risk for obesity
+- dystopia vs utopia
+	- world of suffering and injustice vs perfect world
+- stewardship
+	- the job of supervising or taking care of something, such as an organization or property.
+	- "responsible stewardship of our public lands"
+	- while reading gm's about page on their mission and value as a company "Our future depends on responsible stewardship of the earth, and we continually seek creative and innovative solutions for the environment."
+- Simpleton
+	- a foolish or gullible person, idiot
+	- A person who lacks the capacity to think beyond simple thoughts, and masks his ignorance by reciting information he heard on CNBC's Mad Money with
+- Simp
+	- "Sucker idolizing mediocre pussy"
+	- someone who will do anything to get a girls' attention, often at the expense of their on dignity, putting women on a pedestal
+- Firmware
+- Bios
+- Dongle
+	- Small devices to be connected to computer for additional functionality
+	- heard it on open source YouTube channel.
+- Complicit
+	- helping to commit a crime or do wrong in some way.
+	- When you turn a blind eye to atrocities, you are complicit in them
+	- An of an older white gentlemen wearing a t-shirt that says "Silence is Complicity" during a BLM protest.
+	- https://unsplash.com/photos/zFPTvo0aZ0g
+- "I wear my heart on my sleeve" a Lex Fridman post on YouTube that said that he took down a video of him talking about how Joe Rogan has been a huge influence and inspiration b/c of the toxicity towards Joe Rogan.
+	- What does "I wear my heart on my sleeve" mean
+- Presumptuous
+	- `tor` subreddit user asked if it was safe to visit adult sites with tor browser. And commentator replied what was the purpose of the questions and someone else replied to the first comment that they were being presumptuous and should practice principle of charity
+- principle of charity
+	- interpreting a speakers statements in the most rational way possible, treat people as intelligent people
+	- `tor` subreddit user asked if it was safe to visit adult sites with tor browser. And commentator replied what was the purpose of the questions and someone else replied to the first comment that they were being presumptuous and should practice principle of charity
+- Androgynous 
+	- someone having both male and female characteristics that you cannot determine their biological sex 
+	- Check out  androgynous celebrities (images)
+- Hermaphrodite
+	- having both male and female reproductive organs (e.g., in humans both ovarian & testicular tissues)

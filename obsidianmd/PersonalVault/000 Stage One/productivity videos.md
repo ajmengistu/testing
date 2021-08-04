@@ -1,0 +1,33 @@
+- source: [Create Your Second Brain with Tiago Forte](https://www.youtube.com/watch?v=5zhCd04a-4w)
+	- manage your notes in a ==intentional and strategic way==.
+	- tools: Notion, bookmarks, web pages, Obsidian, Anki, Libby, YouTube
+	- These tools can act as a second brain == [[knowledge management system]].
+	- C.O.D.E 
+		- Collect
+			- location you save your notes
+				- web clipper, Notion, Obsidian
+			- What to collect/add to your notes?
+				- anything that resonates 
+					- Example:
+						- when your reading an article or listening podcasts, copy phrases, words, and E-book highlights.
+		- Organize
+			- P.A.R.A
+				- read / watch article on it.
+		- Distill
+			- progressive summarization 
+				- There is too much stuff to place into your notes, thus try to only keep the core piece of information, let the piece of note be as atomic as possible.
+				- how?
+					- highlight the best parts of your highlights, and keep highlighting until you drill down the core element.
+					- pros:
+						- ==maximization of the value== the knowledge vault (all your notes), ==minimization of the size== of the knowledge vault.
+						- revisiting notes at different times (months, years), increases insight.
+		- Express
+			- Share your knowledge, express your unique voice in the world via blogs, podcasts...
+			- Ultimately you are collecting ideas from differences resources. Now What? What do you do with it?
+			- Information hoarders:
+				- diligently saving all their highlights and transcribes
+				- Avoid this at all costs!!!
+	- Thinking is like a muscle, it get better with time, the more you use it.
+		- connecting all your ideas together, creates interconnected network in your brain, allowing you to solve problems in you area of expertise.
+
+- source: [What is P A R A ? An in-depth look at P.A.R.A.](https://www.youtube.com/watch?v=EZDZEhbhEpo)

@@ -1,0 +1,2 @@
+- What is your favorite praying position? 
+	- comment from Commai live stream by George Hotz
