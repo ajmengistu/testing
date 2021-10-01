@@ -1,4 +1,4 @@
-
+```
 # Open new window frame via (ctrl + a + v or ctrl + a + h) horizontal or vertical in the SAME working directory.
 
 # Disable pane switching with Esc (when switching to Normal mode in Vim &  hit j or k)
@@ -49,3 +49,4 @@ bind-key -Tcopy-mode-vi r send -X rectangle-toggle  	# visual block toggle
 
 bind-key -T copy-mode-vi y send-keys -X copy-pipe-and-cancel "xclip -i -sel clip > /dev/null" 	# yank (copy) to system clipboard 
 bind-key p run "xclip -o -sel clip | tmux load-buffer - ; tmux paste-buffer"   			# paste (p); default ]
+```
